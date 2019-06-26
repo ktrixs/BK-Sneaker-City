@@ -1,0 +1,192 @@
+[
+  {
+    "productId": 1,
+    "productBrand": "Nike",
+    "productModel": "Air Max",
+    "releaseDate": "Past",
+    "description": " la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 20000,
+    "starRating": 3.2,
+    "imageUrl": "http://clipart-library.com/new_gallery/shoe-clipart-7.png"
+  },
+  {
+    "productId": 2,
+    "productBrand": "Converse",
+    "productModel": "All Star",
+    "releaseDate": "Future",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 15000,
+    "starRating": 2.5,
+    "imageUrl": "http://clipart-library.com/newimages/clip-art-shoes-26.jpg"
+  },
+  {
+    "productId": 3,
+    "productBrand": "Timberland",
+    "productModel": "Timba",
+    "releaseDate": "Past",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 105000,
+    "starRating": 5,
+    "imageUrl": "http://clipart-library.com/image_gallery2/Shoes-PNG-Clipart.png"
+  },
+  {
+    "productId": 4,
+    "productBrand": "Addidas",
+    "productModel": "1X Series",
+    "releaseDate": "Past",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 105000,
+    "starRating": 5,
+    "imageUrl": "http://clipart-library.com/image_gallery2/Shoes-Free-Download-PNG.png"
+  },
+  {
+    "productId": 5,
+    "productBrand": "Made In Rwanda",
+    "productModel": "Oldies",
+    "releaseDate": "Past",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 10000,
+    "starRating": 1.8,
+    "imageUrl": "http://clipart-library.com/image_gallery2/Shoes.png"
+  },
+  {
+    "productId": 6,
+    "productBrand": "Made In Rwanda",
+    "productModel": "chong",
+    "releaseDate": "Past",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 10000,
+    "starRating": 1.8,
+    "imageUrl": "http://clipart-library.com/image_gallery2/Shoes-PNG-Picture.png"
+  },
+  {
+    "productId": 7,
+    "productBrand": "Nike",
+    "productModel": "tennis",
+    "releaseDate": "Future",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 11000,
+    "starRating": 3.7,
+    "imageUrl": "http://clipart-library.com/images/rTjrdzKec.jpg"
+  },
+  {
+    "productId": 8,
+    "productBrand": "Balensiaga",
+    "productModel": "HA6H",
+    "releaseDate": "Past",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 11000,
+    "starRating": 3.7,
+    "imageUrl": "http://clipart-library.com/images/8i65rz56T.jpg"
+  },
+  {
+    "productId": 9,
+    "productBrand": "Sport",
+    "productModel": "Head",
+    "releaseDate": "Future",
+    "description": "Standard two-button video game controller",
+    "price": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "http://clipart-library.com/images/kiKo6boRT.jpg"
+  },
+  {
+    "productId": 10,
+    "productBrand": "Power",
+    "productModel": "Adi wear",
+    "releaseDate": "Past",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 11000,
+    "starRating": 3.7,
+    "imageUrl": "http://clipart-library.com/images/rTnrdkMyc.jpg"
+  },
+  {
+    "productId": 11,
+    "productBrand": "Nike",
+    "productModel": "Air",
+    "releaseDate": "Past",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 11000,
+    "starRating": 3.7,
+    "imageUrl": "http://clipart-library.com/images/pc5rL699i.jpg"
+  },
+  {
+    "productId": 12,
+    "productBrand": "Converse",
+    "productModel": "Felyue",
+    "releaseDate": "Past",
+    "description": " la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 20000,
+    "starRating": 3.2,
+    "imageUrl": "http://clipart-library.com/images/8T65rz5Gc.jpg"
+  },
+  {
+    "productId": 13,
+    "productBrand": "Nike",
+    "productModel": "Air Max",
+    "releaseDate": "Future",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 15000,
+    "starRating": 2.5,
+    "imageUrl": "http://clipart-library.com/images/8c65rkgoi.jpg"
+  },
+  {
+    "productId": 14,
+    "productBrand": "Head",
+    "productModel": "Footwear Curve",
+    "releaseDate": "Past",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 105000,
+    "starRating": 5,
+    "imageUrl": "http://clipart-library.com/images/BTardkz9c.jpg"
+  },
+  {
+    "productId": 15,
+    "productBrand": "Nike",
+    "productModel": "Air Max",
+    "releaseDate": "Past",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 105000,
+    "starRating": 5,
+    "imageUrl": "http://clipart-library.com/images/yikrd8MET.jpg"
+  },
+  {
+    "productId": 16,
+    "productBrand": "Nike",
+    "productModel": "Air Force",
+    "releaseDate": "Past",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 10000,
+    "starRating": 1.8,
+    "imageUrl": "http://clipart-library.com/images/piodydA6T.jpg"
+  },
+  {
+    "productId": 17,
+    "productBrand": "Addidas",
+    "productModel": "Converse",
+    "releaseDate": "Past",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 10000,
+    "starRating": 1.8,
+    "imageUrl": "http://clipart-library.com/images/LTd5Kk4ac.jpg"
+  },
+  {
+    "productId": 19,
+    "productBrand": "Nike",
+    "productModel": "Basketball",
+    "releaseDate": "Past",
+    "description": "la condena a La Manada a 15 años: fue violación y no abuso",
+    "price": 11000,
+    "starRating": 3.7,
+    "imageUrl": "http://clipart-library.com/images/6cy5y5qei.jpg"
+  },
+  {
+    "productId": 20,
+    "productBrand": "Nike",
+    "productModel": "Air Force 2",
+    "releaseDate": "Future",
+    "description": "Standard two-button video game controller",
+    "price": 35.95,
+    "starRating": 4.6,
+    "imageUrl": "http://clipart-library.com/images/6Tr5j85nc.gif"
+  }
+]
