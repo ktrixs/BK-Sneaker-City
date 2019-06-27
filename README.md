@@ -1,13 +1,13 @@
 # BK-Sneaker-City
 BK Sneaker City is a brand new online-only store for sneaker enthusiasts.This project was generated with Angular CLI version 7.0.3.
 
-First go to the  project folder(App) and install the dependencies.
+First go to the  project folder and install the dependencies.
 
 npm install
 
 
 # Development server
-Run ng serve or npm start for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
 # Code scaffolding
 Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
